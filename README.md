@@ -22,3 +22,5 @@ just in 2 moves, we solved the puzzle by getting to 53!
 With these 6 numbers, there are exactly 9851 different ways of solving this puzzle!
 
 Use this program to help solving the puzzle!
+
+https://engaging-data.com/digitsgame/
